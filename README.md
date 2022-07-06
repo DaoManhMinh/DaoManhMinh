@@ -1,2 +1,3 @@
-- 👋 Hi, I’m @dmminh727
-- 🌱 I’m currently learning Python
+- 👋 Hi, I’m Đào Minh
+- 🌱 I’m currently learning JS and Python
+- 📍⠀I live in HaiFong City , Vietnam
